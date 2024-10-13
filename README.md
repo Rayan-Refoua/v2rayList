@@ -8,7 +8,7 @@ V2Ray is an advanced, open-source network protocol designed to bypass internet c
 
 ## How to Subscribe to the V2Ray List
 
-`https://raw.githubusercontent.com/Rayan-Refoua/v2rayList/refs/heads/main/List`
+`https://raw.githubusercontent.com/Rayan-Refoua/v2rayList/refs/heads/main/List.txt`
 
 ### Android
 
