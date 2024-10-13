@@ -1,6 +1,6 @@
 # V2Ray VPN Subscription List
 
-This repository contains a single file named `list.txt` that includes a list of various V2Ray VPN subscriptions. Users can subscribe to these lists using V2Ray clients on both Android and Windows platforms.
+This repository contains a single file named `list.txt` that includes a list of various V2Ray VPN subscriptions sorted by speed (Faster on top). Users can subscribe to these lists using V2Ray clients on both Android and Windows platforms.
 
 ## What is V2Ray?
 
