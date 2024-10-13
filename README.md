@@ -1,9 +1,64 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.5.134:2053?encryption=none&security=tls&sni=bpb-v.PAGEs.deV&alpn=http%2F1.1&type=ws&host=bpb-v.PaGeS.DEv&path=%2Fzvk78A3RrwtbmvAX%2FMTI5LjE1OS4yNDEuMTcy#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.20.5.134%3A2053
-vless://c7800920-c45b-4160-a2fc-afed532b54d5@160.123.255.209:8080?encryption=none&security=none&type=httpupgrade&host=h17.Xn--gmq282ekfhyys3gs.Com.&path=%2Fspeedtest.net%3Fed%3D512#%F0%9F%94%92%20VL-HTTPUPGRADE-NONE%20%F0%9F%87%BF%F0%9F%87%A6%20ZA-160.123.255.209%3A8080
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.67.68.101:443?encryption=none&security=tls&sni=IsaA1.pAgEs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ISAa1.PAGeS.deV&path=%2Fvlees_v2rayng%3Fed%3D2560#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.68.101%3A443
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBWMnJheV9BbHBoYS1NY2ktMTIiLA0KICAiYWRkIjogInZ1LW11bWJhaS0wMS52bm9kZS5pbmZvIiwNCiAgInBvcnQiOiAiMjA1MyIsDQogICJpZCI6ICJhMDQwMDFmMy0yZGJhLTQwZWQtOGMyZS1kMGM3NjVkOWFmYWEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInZ1LW11bWJhaS0wMS52bm9kZS5pbmZvIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ2dS1tdW1iYWktMDEudm5vZGUuaW5mbyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REZDMVJFTEFZLTE2Mi4xNTkuOC4xMjAtMzIzMSIsDQogICJhZGQiOiAiMTYyLjE1OS44LjEyMCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAiYXV0byIsDQogICJob3N0IjogImhtczE5LmJlc3QtdGl6aS50b3AiLA0KICAicGF0aCI6ICIvTElOS1dTIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.119:2053?encryption=none&security=tls&sni=BpB-v.PAgEs.Dev&alpn=http%2F1.1&type=ws&host=bpb-v.PaGEs.DeV&path=%2FYqeZWRB6xLr1OpL6%2FMTI5LjE1OS4yNDEuMTcy#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.47.119%3A2053
-vless://53408d32-4ed2-4343-85b4-3fdd9e5c1b09@104.17.148.22:2052?encryption=none&security=none&sni=fi2.v2vless.site&type=ws&host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95maxsskllppae.plakrovel.melocvo.zmaxer.napovafoodka.com.fi2.v2vless.sitespeedtest.net&path=%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.148.22%3A2052
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?encryption=none&security=tls&sni=iSaA1.paGes.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=IsaA1.pAGEs.DEV&path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560#bya%2Bto%2B%40iran_v2ray1
-vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?encryption=none&security=tls&sni=Noshteri.hooplnqpb.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Noshteri.hooplnqpb.ir&path=%2F%3Fed%3D2048#bya%2Bto%2B%40iran_v2ray1
+# V2Ray VPN Subscription List
+
+This repository contains a single file named `list.txt` that includes a list of various V2Ray VPN subscriptions. Users can subscribe to these lists using V2Ray clients on both Android and Windows platforms.
+
+## What is V2Ray?
+
+V2Ray is an advanced, open-source network protocol designed to bypass internet censorship and enhance online privacy. It creates secure, encrypted tunnels for your data, allowing you to access blocked content seamlessly. Developed initially by anonymous Chinese developers, V2Ray supports multiple protocols, including TCP, UDP, HTTP, and WebSocket, making it versatile and effective in various network environments[^1^][1][^2^][2].
+
+## How to Subscribe to the V2Ray List
+
+### Android
+
+To subscribe to the V2Ray list on an Android device, follow these steps:
+
+1. **Download and Install V2RayNG**:
+   - Download the V2RayNG app from [GitHub](https://github.com/2dust/v2rayNG) or Google Play Store.
+   
+2. **Add Subscription**:
+   - Open the V2RayNG app.
+   - Tap the "+" button and select "Import config from clipboard".
+   - Copy the subscription link from `list.txt` and paste it into the app.
+   - Tap "OK" to save the subscription.
+   
+3. **Update and Connect**:
+   - Go to the "Subscription" tab and tap "Update subscription".
+   - Select a server from the list and tap "Connect" to start using the VPN[^3^][13][^4^][14].
+
+### Windows
+
+To subscribe to the V2Ray list on a Windows device, follow these steps:
+
+1. **Download and Install V2RayN**:
+   - Download the V2RayN client from [GitHub](https://github.com/2dust/v2rayN/releases).
+   - Extract the downloaded files and run `v2rayN.exe`.
+
+2. **Add Subscription**:
+   - Open V2RayN and go to "Subscriptions" > "Settings".
+   - Click "Add" and paste the subscription link from `list.txt`.
+   - Click "OK" to save the subscription.
+
+3. **Update and Connect**:
+   - Go to "Subscriptions" > "Update" to refresh the server list.
+   - Select a server from the list and click "Connect" to start using the VPN[^5^][5][^6^][8].
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contributing
+
+Feel free to submit issues or pull requests if you have any improvements or suggestions.
+
+## Acknowledgments
+
+- Thanks to the developers of V2Ray, V2RayNG, and V2RayN for their amazing work.
+
+---
+
+[^1^][1]: [Cloudzy - What is V2Ray VPN?](https://cloudzy.com/blog/what-is-v2ray-vpn/)
+[^2^][2]: [ForestVPN - What is V2Ray VPN?](https://forestvpn.com/blog/technology/vpn-services/what-is-v2ray-vpn/)
+[^5^][5]: [YouTube - How to Configure V2ray On Windows](https://www.youtube.com/watch?v=A33EOvSozLQ)
+[^6^][8]: [GitHub - 2dust/v2rayN](https://github.com/2dust/v2rayN)
+[^3^][13]: [GitHub - 2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+[^4^][14]: [YouTube - How to add subscription link on Hiddify panel to V2rayNG app](https://www.youtube.com/watch?v=5AQgbCwHujk)
