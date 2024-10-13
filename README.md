@@ -7,9 +7,9 @@ This repository contains a single file named `list.txt` that includes a list of 
 V2Ray is an advanced, open-source network protocol designed to bypass internet censorship and enhance online privacy. It creates secure, encrypted tunnels for your data, allowing you to access blocked content seamlessly. Developed initially by anonymous Chinese developers, V2Ray supports multiple protocols, including TCP, UDP, HTTP, and WebSocket, making it versatile and effective in various network environments[^1^][1][^2^][2].
 
 ## How to Subscribe to the V2Ray List
-
-`https://raw.githubusercontent.com/Rayan-Refoua/v2rayList/refs/heads/main/List.txt`
-
+```
+   https://raw.githubusercontent.com/Rayan-Refoua/v2rayList/refs/heads/main/List.txt
+```
 ### Android
 
 To subscribe to the V2Ray list on an Android device, follow these steps:
