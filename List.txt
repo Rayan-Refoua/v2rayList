@@ -1,6 +1,7 @@
 hysteria2://ThisIsNotForSale-Free$ervice@api.tg8lnk.tech:443/?insecure=1#MCI-%40V2ray_Alpha-06
 wireguard://yN1JTfs09lhO94%2BnaZ7XOwoGsywBgDM2DhU440nVrVI%3D@162.159.195.25:1010/?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=67%2C26%2C146&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8841%3A4823%3A26be%3Ab97e%3Ae1ad%2F128&mtu=1280#Mci-%40V2ray_Alpha-3
 wireguard://mN1ghf%2FMfrVvSiwIRkIlTDHiSxJwa%2FBmQ9kLgzLk12k%3D@188.114.98.113:4198/?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=47%2C188%2C60&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A828e%3A1f5a%3A2937%3Ae30d%3Ace42%2F128&mtu=1280#Mci-%40V2ray_Alpha-2
+vless://19190e1d-ca8f-44ff-a00c-7eccbd66f337@188.245.216.207:3030?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&type=tcp&headerType=none#IR-%40V2ray_Alpha-11
 hysteria2://dongtaiwang.com@46.17.41.189:50717/?sni=www.bing.com&insecure=1#WiFi-%40V2ray_Alpha-10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#Ir-%40V2ray_Alpha-1
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.103:7001#US35%201.6MB%2Fs
@@ -38,6 +39,7 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.95.180:8118#WiFi-%40V2ray_Alpha-
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.95:443#WiFi-%40V2ray_Alpha-3
 vless://08074685-1f9b-419b-87ea-c2c9d51b9461@209.250.227.192:2048?encryption=none&security=none&type=tcp&headerType=http&host=saveeditonline.com#WiFi-%40V2ray_Alpha-12
 vless://26721978-890e-4946-bafa-cb03c9ff7f4a@212.237.218.123:38142?encryption=none&security=none&type=tcp&headerType=none#WiFi-%40V2ray_Alpha-14
+vless://64a1796c-95f8-40e4-9a56-825823212648@185.235.243.133:443?encryption=none&security=tls&sni=tr-s.xor-vpn.ru&type=tcp&headerType=none#IR-%40V2ray_Alpha-8
 vless://995dc2bd-bafb-4343-9945-10283a9dee4a@194.226.49.245:33679?encryption=none&security=none&type=ws&host=bestm03&path=%2Fbestm03#WiFi-%40V2ray_Alpha-14
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIldpRmktQFYycmF5X0FscGhhLTE4IiwNCiAgImFkZCI6ICI3OS4xMjcuMjI5LjU0IiwNCiAgInBvcnQiOiAiMTgwMDAiLA0KICAiaWQiOiAiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 wireguard://CJqryBEtmR4p4RJ9%2B9OZxZbGT28UE2QCrV3NUadebGQ%3D@188.114.97.113:4198/?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=223%2C211%2C135&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8b6f%3Aef6e%3A22c6%3Abdc8%3A608e%2F128&mtu=1280#Mci-%40V2ray_Alpha-1
